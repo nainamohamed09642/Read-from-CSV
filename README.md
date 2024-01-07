@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+to write the pythin program to reading from CSV
 ## ALGORITHM:
 ### Step 1:
 import pandas as pd
@@ -28,3 +28,5 @@ print("Number of columns:",len(df.axes[1]))
 ![293445863-2d4c49cb-709c-4690-8068-4409eb7a5281](https://github.com/nainamohamed09642/Read-from-CSV/assets/151916360/1bd56826-5eaa-44df-ac4c-7f88bb09294f)
 
 ## RESULT:
+Successfully the the pythin program to reading from CSV.
+
